@@ -1,7 +1,6 @@
 # News Aggregator (PHP)
 --------------
-Developers: Aicha Hezit and Hai Hoang Ha
-Fall 2015
+Developers: Aicha Hezit and Hai Hoang Ha, Fall 2015
 
 Description:
 ------------
@@ -13,6 +12,4 @@ Programmed in PHP using the Laravel framework.
 
 Technologies & Languages Used:
 ------------------
-PHP
-WAMP
-Git
+PHP, WAMP, Git
